@@ -59,7 +59,7 @@ trading signals
    2. Investigation of the literature on the development of the mean
 reversion method for short term trading.
    3. Vector AutoRegression and Vector Error Correction Model.
-   4. 
+  
 Sentiment analysis is a growing area of interest for financial analysts and
 investors. Many ongoing researches especially in behavioral finance are
 focused on understanding the impact of sentiments on retail and
