@@ -46,6 +46,7 @@ dataset includes the Open, High, Low, Close prices, as well as the Volume.
 For short-term trading, we are going to aggregate the data to acquire less
 frequent data such as minute data based on our research.
 
+
 ## 2. Theoretical Framework
 The literature surrounding short term trading is immense and varied. In
 this part, we will review articles and papers, particularly with regard to
