@@ -53,11 +53,11 @@ keywords and key works done in the area we are exploring. We will look at
 contributions in the literature on the use of sentiment proxies as an
 indicator and their contribution to the literature.
 Things we looked at:
-● Understanding the relationship between market sentiment, VIX and
+  ● Understanding the relationship between market sentiment, VIX and
 trading signals
-● Investigation of the literature on the development of the mean
+  ● Investigation of the literature on the development of the mean
 reversion method for short term trading.
-● Vector AutoRegression and Vector Error Correction Model.
+  ● Vector AutoRegression and Vector Error Correction Model.
 Sentiment analysis is a growing area of interest for financial analysts and
 investors. Many ongoing researches especially in behavioral finance are
 focused on understanding the impact of sentiments on retail and
