@@ -49,8 +49,7 @@ frequent data such as minute data based on our research.
 
 ## 2. Theoretical Framework
 The literature surrounding short term trading is immense and varied. We reviewed articles and papers, particularly with regard to
-keywords and key works done in the area we are exploring. We will look at
-contributions in the literature on the use of sentiment proxies as an
+keywords and key works done in the area. We looked at contributions in the literature on the use of sentiment proxies as an
 indicator and their contribution to the literature.
 Things we looked at:
    1. Understanding the relationship between market sentiment, VIX and
