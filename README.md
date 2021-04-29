@@ -18,3 +18,17 @@ Our data from Refinitiv DataScope is 2-year 15-second dataset; between January 1
 
 ## 2. Data Analysis
 
+We did our data analysis using `Python 3.8.1`  on `Jupter Notebook`
+ 
+ * **Required packages** 
+  
+      Python Packages used are: 
+
+        - `numpy`
+        - `Pandas`
+        - `Matlabplot`
+        - `Scklearn`
+        - `Seaborn`
+## 3. GitHub Files
+## 4. Conclusion
+
