@@ -16,7 +16,7 @@ To answer the question, we propose two methodologies.
 Our data from Refinitiv DataScope is 2-year 15-second dataset; between January 1, 2019, and December 31, 2020; of the SPDR S&P 500 (SPY) ETF and the Chicago Board of Exchange (CBOE) Volatility (VIX) Index, . The dataset includes the Open, High, Low, Close prices, as well as the Volume.
 
 
-## 2. Theoretical Framework
+## 2. Data Analysis
 The literature surrounding short term trading is immense and varied. We reviewed articles and papers, particularly with regard to keywords and key works done in 
 the area. We looked at contributions in the literature on the use of sentiment proxies as an indicator and their contribution to the literature.
 Things we looked at:
