@@ -1,19 +1,4 @@
 ## 1. Introduction
-The practice of short term trading relies mainly on the entry and exit signals of instruments calculated on smaller time frames and generally do
-not consider long term trends. The two most popular types of trading strategies, momentum trading and mean reversion trading, are based on the trend 
-of the price or return of stocks. But we know that the market laws that influence demand and supply vary depending on human interactions. 
-
-Over the years, the trading strategies developed have been based mainly on technical, financial and economic indicators. With the advancement of technology, 
-and the proliferation of news and social media, many traders have joined the market, adding to the liquidity and volatility of the market. Secondly, the 
-current atmosphere in many Western countries with the rise of social and political movements, and mob-investors such as Wallstreetbets, make for a complicated 
-market environment based on fear and greed. An investment atmosphere driven by emotion reduces the efficacy and accuracy of common technical
-indicators, and erodes profits. There is a need therefore to investigate the impact and influence of human sentiment on short term trading.
-To accomplish our aim, we think that the use of a combination of technical indicators such as Bollinger Bands and Relative Strength Index (RSI), and a
-proxy for market sentiment such as the CBOE Volatility (VIX) Index will be useful for improving short-term exit and entry signal precision.
-The VIX Index incorporates a “fear gauge” of the markets. A high VIX indicates that investors are weary of the current market environment and
-are purchasing insurance contracts to hedge their portfolios in the wake of or during a drawdown. On the other hand, a low VIX suggests complacency
-and that any movement in the stock market will be restrained. In that sense we think of the VIX Index as a leading indicator which will inform the
-short-term entry and exit signals.
 
 In this project, we are seeking answers to the question: 
 
