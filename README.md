@@ -17,7 +17,7 @@ short-term entry and exit signals.
 
 In this project, we are seeking answers to the question: 
 
-*1. Does the incorporation of the CBOE Volatility (VIX) index improve performance of Bollinger Band based mean reversion trading strategy? 
+* 1. Does the incorporation of the CBOE Volatility (VIX) index improve performance of Bollinger Band based mean reversion trading strategy? 
 
 To answer the question, we propose two methodologies. 
 
