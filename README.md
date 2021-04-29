@@ -30,5 +30,7 @@ We did our data analysis using `Python 3.8.1`  on `Jupter Notebook`
         - `Scklearn`
         - `Seaborn`
 ## 3. GitHub Files
+* analysis_plan.ipny
+    - Jupyter Notebook with python codes used in our data analysis
 ## 4. Conclusion
 
