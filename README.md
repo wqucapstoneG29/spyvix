@@ -22,11 +22,11 @@ In this project, we are seeking answers to the question:
 
 To answer the question, we propose two methodologies. 
 
-    A. The first explores a multivariate time series: the mean-reverting time series of historical intraday equity (ETF) prices and the intraday VIX index values. 
+1. The first explores a multivariate time series: the mean-reverting time series of historical intraday equity (ETF) prices and the intraday VIX index values. 
     i. If the linear combination of the two time series are cointegrated, we will explore further using Vector Error Correction Model (VECM). 
     ii. If no cointegration relationship is found, we will consider lagged data using Vector AutoRegression (VAR) Model. 
          
-    B. Secondly, we will build what we call a cointegrated Bollinger band using the linearly combined data.
+2. Secondly, we will build what we call a cointegrated Bollinger band using the linearly combined data.
 
 Our project will use data from Refinitiv DataScope. We are working with the 2-year 15-second dataset of the SPDR S&P 500 (SPY) ETF and the CBOE
 Volatility (VIX) Index, between January 1, 2019, and December 31, 2020. The dataset includes the Open, High, Low, Close prices, as well as the Volume.
