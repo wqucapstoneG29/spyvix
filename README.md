@@ -15,11 +15,17 @@ are purchasing insurance contracts to hedge their portfolios in the wake of or d
 and that any movement in the stock market will be restrained. In that sense we think of the VIX Index as a leading indicator which will inform the
 short-term entry and exit signals.
 
-For our project, we are going to seek answers to the question: does the incorporation of the CBOE Volatility (VIX) index improve performance of
-Bollinger Band based mean reversion trading strategy? We propose two methodologies. The first explores a multivariate time series: the
-mean-reverting time series of historical intraday equity (ETF) prices and the intraday VIX index values. If the linear combination of the two time series is
-cointegrated, we will use a Vector Error Correction Model (VECM). If no cointegration relationship is found, we will consider lagging the data or
-using a Vector AutoRegression (VAR) Model. Secondly, we will build what we call a cointegrated Bollinger band using the linearly combined data.
+In this project, we are seeking answers to the question: 
+
+    1.does the incorporation of the CBOE Volatility (VIX) index improve performance of Bollinger Band based mean reversion trading strategy? 
+
+To answer the question, we propose two methodologies. 
+
+    A. The first explores a multivariate time series: the mean-reverting time series of historical intraday equity (ETF) prices and the intraday VIX index values. 
+         i. If the linear combination of the two time series are cointegrated, we will explore further using Vector Error Correction Model (VECM). 
+         ii. If no cointegration relationship is found, we will consider lagged data using Vector AutoRegression (VAR) Model. 
+         
+    B. Secondly, we will build what we call a cointegrated Bollinger band using the linearly combined data.
 
 Our project will use data from Refinitiv DataScope. We are working with the 2-year 15-second dataset of the SPDR S&P 500 (SPY) ETF and the CBOE
 Volatility (VIX) Index, between January 1, 2019, and December 31, 2020. The dataset includes the Open, High, Low, Close prices, as well as the Volume.
