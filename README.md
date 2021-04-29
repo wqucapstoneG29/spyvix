@@ -28,9 +28,7 @@ To answer the question, we propose two methodologies.
          
 2. Secondly, we will build what we call a cointegrated Bollinger band using the linearly combined data.
 
-Our project will use data from Refinitiv DataScope. We are working with the 2-year 15-second dataset of the SPDR S&P 500 (SPY) ETF and the CBOE
-Volatility (VIX) Index, between January 1, 2019, and December 31, 2020. The dataset includes the Open, High, Low, Close prices, as well as the Volume.
-For short-term trading, we are going to aggregate the data to acquire less frequent data such as minute data based on our research.
+Our data from Refinitiv DataScope is 2-year 15-second dataset; between January 1, 2019, and December 31, 2020; of the SPDR S&P 500 (SPY) ETF and the Chicago Board of Exchange (CBOE) Volatility (VIX) Index, . The dataset includes the Open, High, Low, Close prices, as well as the Volume.
 
 
 ## 2. Theoretical Framework
